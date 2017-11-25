@@ -1,1 +1,19 @@
-
+{
+  "profile" : {
+    username : 'admin',
+    password : 'adminPass'
+  },
+  "events" : [
+    {
+      id: 1,
+      name: '',
+      desc: '',
+      nb_participant: 10,
+      thumb_cover: ''
+    }
+  ],
+  "participants" : [
+  
+  ]
+  
+}
