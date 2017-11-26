@@ -9,49 +9,49 @@
       "name": "Mccullough Robles",
       "desc": "Eu ipsum est ut aliqua commodo veniam Lorem et adipisicing aliqua ullamco est Lorem. Exercitation mollit amet Lorem elit labore.",
       "nb_participant": 28,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/futurama/255/200/2"
     },
     {
       "id": 2,
       "name": "Lowe Jodie",
       "desc": "Velit in ullamco esse occaecat aliquip elit mollit irure laboris ullamco laborum adipisicing. Officia commodo mollit aliqua velit incididunt excepteur nisi non exercitation.",
       "nb_participant": 14,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/up/255/200/2"
     },
     {
       "id": 3,
       "name": "Gordon Mitchell",
       "desc": "Non esse commodo sit do ullamco qui voluptate pariatur. Ut consectetur proident consequat dolore voluptate labore non aliqua.",
       "nb_participant": 3,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/up/255/200/5"
     },
     {
       "id": 4,
       "name": "Blankenship Nelda",
       "desc": "Laborum eiusmod enim anim adipisicing dolor ipsum ipsum incididunt ea ut cupidatat laborum ad ullamco.",
       "nb_participant": 10,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/simpsons/255/200/5"
     },
     {
       "id": 5,
       "name": "Jensen Queen",
       "desc": "Cupidatat duis officia velit magna ullamco sunt irure consectetur culpa incididunt mollit cillum id sunt.",
       "nb_participant": 5,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/rio/255/200/5"
     },
     {
       "id": 6,
       "name": "Parrish Sampson",
       "desc": "Officia amet consectetur minim voluptate in occaecat duis duis consequat anim Lorem quis voluptate mollit.",
       "nb_participant": 25,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/futurama/255/200/5"
     },
     {
       "id": 7,
       "name": "Maldonado Gilbert",
       "desc": "Ad quis voluptate enim ipsum ad pariatur consequat. Ipsum officia proident pariatur aute consectetur ut.",
       "nb_participant": 15,
-      "thumb_cover": "http://placehold.it/32x32"
+      "thumb_cover": "http://lorempicsum.com/simpsons/255/200/2"
     }
   ],
   "participants" : [
